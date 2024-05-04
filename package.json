@@ -1,0 +1,21 @@
+{
+  "name": "gov-01-ts-calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator using typescript, node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Raza",
+  "license": "MIT",
+  "dependencies": {
+    "@types/through": "^0.0.33",
+    "inquirer": "^9.2.20",
+    "through": "^2.3.8"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
